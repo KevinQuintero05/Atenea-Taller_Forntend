@@ -13,3 +13,25 @@ table>tbody>tr>td {
 .btn-group, .btn-group-vertical {
   position: absolute !important;
 }
+
+h5{
+color: #d00;
+}
+
+p{
+  color: #fff;
+}
+
+#chartContainer{
+  height: 300px; width: 100%;
+}
+
+#imgicon {
+  padding:5px
+}
+
+.containerimg, .img{
+  width:300px;
+  padding:2px;
+  margin: auto;
+}
