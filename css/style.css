@@ -57,6 +57,7 @@
 }
 
 .enlace2 {
+    font-size: 30px;;
     color: purple;
     text-decoration: underline;
     font-weight: bold;
@@ -77,6 +78,7 @@
 #punto7 li {
     padding: 15px 10px;
     list-style: none;
+    margin: 2px;
 }
 
 #punto7 li:hover {
@@ -84,9 +86,10 @@
 }
 
 #punto7 i {
+    font-weight: bold;
+    font-style: normal;
     font-size: 18px;
     color: white;
-    font-weight: bold;
 }
 
 #punto8 table {
